@@ -1,0 +1,8 @@
+/**
+ * Implementation of hook_uninstall().
+ */
+function facebookshare_uninstall() {
+  variable_del('facebookshare_types');
+  variable_del('facebookshare_location');
+  variable_del('facebookshare_style');
+}

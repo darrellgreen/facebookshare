@@ -1,0 +1,4 @@
+; $Id: facebookshare.info,v 1.1 2009/04/27 04:30:02 robloach Exp $
+name = FaceBook Sharer
+description = Allows tracking of links on Facebook Shares, through the Facebook Share web service.
+core = 6.x

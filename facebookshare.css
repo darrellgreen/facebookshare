@@ -1,0 +1,13 @@
+/* $Id: facebooksharer.css */
+
+/**
+ * @file
+ * Provides all the styling for the Facebook Sharer integration.
+ */
+
+/**
+ * Styling for the button.
+ */
+.facebookshare-button {
+  float: right;
+}
